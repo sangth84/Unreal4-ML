@@ -1,0 +1,1 @@
+..\python3.7\python.exe ..\ml-remote-server\server.py
