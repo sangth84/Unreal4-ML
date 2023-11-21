@@ -1,0 +1,7 @@
+{
+	"name" : "SillyGeo",
+	"pythonModules": {
+		"tensorflow": "1.10.0",
+		"gin-config": "0.1.2"
+	}
+}
