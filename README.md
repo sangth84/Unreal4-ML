@@ -16,7 +16,7 @@
 
 <img src="https://github.com/sangth84/Unreal4-ML/assets/40972832/ce913262-4fe9-411d-9b05-cc200773d779.png" width="400" height="200"/>
 
-<img src="https://github.com/sangth84/Unreal4-ML/assets/40972832/ef38d681-8aa6-4095-b1d5-5a68eaedad66.png" width="400" height="200"/>
+<img src="https://github.com/sangth84/Unreal4-ML/assets/40972832/ef38d681-8aa6-4095-b1d5-5a68eaedad66.png" width="200" height="400"/>
 
 # 타 프로젝트에 적용 방법
 1.	EglabMLMgr_Blueprint를 레벨에 배치합니다.
