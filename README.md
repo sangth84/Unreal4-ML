@@ -12,6 +12,12 @@
 3.	게임을 실행하면 학습이 시작됩니다.
 4.	Plugins\EgLabRL\Server\ml-remote-server\scripts\dopamine\agents 하위에 있는 Config 폴더에 들어가 gin 파일을 열어서 하이퍼 파라미터를 변경 가능합니다.
 
+![Screen 2](https://github.com/sangth84/Unreal4-ML/assets/40972832/0d586ca6-ba4b-4b8f-b3b8-22f98a222189)
+
+![Screen 3](https://github.com/sangth84/Unreal4-ML/assets/40972832/ce913262-4fe9-411d-9b05-cc200773d779)
+
+![Screen 4](https://github.com/sangth84/Unreal4-ML/assets/40972832/ef38d681-8aa6-4095-b1d5-5a68eaedad66)
+
 # 타 프로젝트에 적용 방법
 1.	EglabMLMgr_Blueprint를 레벨에 배치합니다.
 2.	IRLControllerInterface 컨트롤러를 상속받아서 가상함수들을 구현해 줍니다.
