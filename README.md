@@ -3,14 +3,15 @@
 ![image](https://github.com/sangth84/Unreal4-ML/assets/40972832/d43abb7e-1821-4565-9b3f-3d3271eb2632)
 
 # 샘플 동작 방법
-1.	Plugins\EgLabRL\Server\ml-remote-server 폴더에 있는 StartupServerByPython37.bat을 실행 시킵니다.
-2.	월드에 배치된 액터를 선택하고 설정 값을 변경 후 학습을 시작 합니다.
+1.  https://drive.google.com/file/d/1OQwXXJ7YQn_UJlmxio4IRV5L58JoeFdI/view?usp=sharing 파일(파이썬 3.7와 관련 라이브러리)을 받아서 SillyGeo_Eglab_Sample_Project/Plugins/EgLabRL/Server 폴더에 풀어 줍니다. 
+2.	Plugins\EgLabRL\Server\ml-remote-server 폴더에 있는 StartupServerByPython37.bat을 실행 시킵니다.
+3.	월드에 배치된 액터를 선택하고 설정 값을 변경 후 학습을 시작 합니다.
 ( 학습 시작 전 이전에 생성된 Plugins\EgLabRL\Server\ml-remote-server\scripts\ Saved 폴더를 지워 줍니다. )
 
 ![image](https://github.com/sangth84/Unreal4-ML/assets/40972832/632cdc06-e67e-403f-9f6a-b80cbc74eedd)
 
-3.	게임을 실행하면 학습이 시작됩니다.
-4.	Plugins\EgLabRL\Server\ml-remote-server\scripts\dopamine\agents 하위에 있는 Config 폴더에 들어가 gin 파일을 열어서 하이퍼 파라미터를 변경 가능합니다.
+4.	게임을 실행하면 학습이 시작됩니다.
+5.	Plugins\EgLabRL\Server\ml-remote-server\scripts\dopamine\agents 하위에 있는 Config 폴더에 들어가 gin 파일을 열어서 하이퍼 파라미터를 변경 가능합니다.
 
 <img src="https://github.com/sangth84/Unreal4-ML/assets/40972832/0d586ca6-ba4b-4b8f-b3b8-22f98a222189.png" width="400" height="200"/>
 
